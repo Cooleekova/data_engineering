@@ -1,3 +1,8 @@
+# Specific CSV files
+client.csv
+campaign.csv
+economics.csv
+
 # Database files
 *.db
 
